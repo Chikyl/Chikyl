@@ -1,31 +1,125 @@
-<!-- ===================== HEADER ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chikonzero%20Seleman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%26%20Engineer&descSize=20&descAlignY=58" alt="Header banner" width="100%" /> <a href="https://github.com/Chikyl"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=20BEFF&center=true&vCenter=true&width=640&lines=Kaggle+Notebook+Master+%7C+Competition+Expert;Machine+Learning+%26+Deep+Learning;Computer+Vision+%7C+Computational+Biology;Building+intelligent+systems+for+real+problems" alt="Typing animation" /> </a> <br/> 
+ <div align="center">
 
-<a href="https://www.kaggle.com/chikonzeroselemani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> <a href="https://www.linkedin.com/in/chikonzero-seleman-143155264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/Chikyl?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chikonzero%20Seleman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%26%20Engineer&descSize=22&descAlignY=58" width="100%" alt="Header banner"/>
 
-</div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20BEFF,100:2C5364&height=3" width="100%" alt="" /> 👋 About Me 
+<a href="https://github.com/Chikyl">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=20BEFF&center=true&vCenter=true&width=900&height=60&lines=Kaggle+Notebook+Master+%7C+Competition+Expert;Machine+Learning+%26+Deep+Learning;Computer+Vision+%7C+Computational+Biology;Building+Intelligent+Systems+for+Real+Problems" alt="Typing animation"/>
+</a>
 
-I explore and develop intelligent systems using Machine Learning, Deep Learning, Computer Vision, and Computational Biology. My work spans scientific and real-world problems, from medical imaging and molecular modelling to multimodal learning, agricultural computer vision, and predictive modelling.
+<br/>
+
+<a href="https://www.kaggle.com/chikonzeroselemani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chikonzero-seleman-143155264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Chikyl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
+<h2 align="center">👋 ABOUT ME</h2>
+
+I explore and develop intelligent systems using **Machine Learning, Deep Learning, Computer Vision, and Computational Biology**. My work spans scientific and real-world problems, from medical imaging and molecular modelling to multimodal learning, agricultural computer vision, and predictive modelling.
 
 I enjoy experimenting with novel architectures, building robust models, competing in data science challenges, and turning research ideas into practical solutions.
 
-💡 Always open to collaborating on challenging ML problems, research experiments, and open-source projects.
+> 💡 Always open to collaborating on challenging ML problems, research experiments, and open-source projects.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:20BEFF,100:2C5364&height=3" width="100%" alt="" /> 🏆 Achievements & Recognition <div align="center"> <img src="https://img.shields.io/badge/Kaggle-Notebook%20Master-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Notebook Master" /> <img src="https://img.shields.io/badge/Kaggle-Competition%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Competition Expert" /> <img src="https://img.shields.io/badge/Zindi-Silver%20Medal-ADB5BD?style=for-the-badge" alt="Zindi Silver Medal" /> 
+---
 
-<br/><br/>
+<h2 align="center">🏆 ACHIEVEMENTS & RECOGNITION</h2>
 
-🏅 Medal Competition Platform 🥉 Bronze RSNA Knee Abnormality Detection <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="18" alt="Kaggle" /> Kaggle 🥉 Bronze CSIRO Image2Biomass <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="18" alt="Kaggle" /> Kaggle 🥈 Silver African Rice Quality Assessment Zindi </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20BEFF,100:2C5364&height=3" width="100%" alt="" /> 🔬 Research & Technical Interests <table> <tr> <td width="33%" valign="top"> 🧠 Machine Learning & Deep Learning Neural network architectures Representation learning Ensemble learning Model optimization Transfer learning </td> <td width="33%" valign="top"> 👁️ Computer Vision Image classification Object detection Semantic segmentation Vision Transformers Medical & agricultural imaging </td> <td width="33%" valign="top"> 🌐 Multimodal AI Cross-modal learning EEG-to-image reconstruction Multimodal representations Contrastive learning </td> </tr> <tr> <td width="33%" valign="top"> 🧬 Computational Biology Protein function prediction RNA structure prediction Molecular property prediction Bioinformatics Chemoinformatics </td> <td width="33%" valign="top"> ⚗️ Scientific Machine Learning Scientific data modelling Predictive modelling AI for scientific discovery Applied mathematics & optimization </td> <td width="33%" valign="top"> 🏥 Biomedical Engineering & AI Medical image analysis Healthcare AI applications Physiological signal processing Intelligent monitoring systems </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20BEFF,100:2C5364&height=3" width="100%" alt="" /> 🚀 Selected Projects & Competition Work Project Domain Focus 🦴 RSNA Knee Abnormality Detection Medical AI MRI analysis and abnormality classification 🌿 CSIRO Image2Biomass Computer Vision Multi-target biomass prediction 🌾 African Rice Quality Assessment Computer Vision Automated rice quality assessment 🧫 Stanford RNA 3D Folding Computational Biology RNA structure prediction ⚗️ NeurIPS Open Polymer Prediction Scientific ML Molecular property prediction 🧬 CAFA 6 Bioinformatics Protein function prediction 🧠 EEG-to-Image Multimodal AI Neural signal-to-image representation learning <div align="center"> 
+| Achievement | Platform | Recognition |
+|:---|:---:|:---:|
+| Kaggle Notebook Master | Kaggle | 🏅 Master |
+| Kaggle Competition Expert | Kaggle | 🏅 Expert |
+| RSNA Knee Abnormality Detection | Kaggle | 🥉 Bronze Medal |
+| CSIRO Image2Biomass | Kaggle | 🥉 Bronze Medal |
+| African Rice Quality Assessment | Zindi | 🥈 Silver Medal |
 
-<a href="https://github.com/Chikyl?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories%20→-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+---
 
-</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20BEFF,100:2C5364&height=3" width="100%" alt="" /> 🛠️ Technologies & Tools <div align="center"> 💻 Programming Languages <table align="center"> <tr> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/><sub><b>Python</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br/><sub><b>C++</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="SQL" /><br/><sub><b>SQL</b></sub></td> </tr> </table> 🧠 Machine Learning & Deep Learning <table align="center"> <tr> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br/><sub><b>PyTorch</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br/><sub><b>TensorFlow</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" /><br/><sub><b>scikit-learn</b></sub></td> <td align="center" width="110"><img src="https://img.shields.io/badge/XGBoost-189B58?style=for-the-badge" alt="XGBoost" /><br/><sub><b>XGBoost</b></sub></td> </tr> </table> 📊 Data Science & Scientific Computing <table align="center"> <tr> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br/><sub><b>NumPy</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br/><sub><b>Pandas</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br/><sub><b>OpenCV</b></sub></td> <td align="center" width="110"><img src="https://img.shields.io/badge/RDKit-3776AB?style=for-the-badge" alt="RDKit" /><br/><sub><b>RDKit</b></sub></td> </tr> </table> 🚀 Development & Deployment <table align="center"> <tr> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br/><sub><b>FastAPI</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/><sub><b>React</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/><sub><b>PostgreSQL</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><sub><b>Git</b></sub></td> <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td> </tr> </table> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20BEFF,100:2C5364&height=3" width="100%" alt="" /> 🐍 Contribution Activity <div align="center"> <img src="https://raw.githubusercontent.com/Chikyl/Chikyl/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20BEFF,100:2C5364&height=3" width="100%" alt="" /> 🤝 Let's Connect 
+<h2 align="center">🛠️ TECHNOLOGIES & TOOLS</h2>
 
-I'm always interested in collaborating on challenging machine learning problems, research experiments, open-source projects, and innovative AI applications. (Click a logo to get in touch.)
+<h3 align="center">💻 PROGRAMMING LANGUAGES</h3>
 
-<div align="center"> <table align="center"> <tr> <td align="center" width="140"> <a href="https://www.kaggle.com/chikonzeroselemani"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="44" height="44" alt="Kaggle" /><br/><b>Kaggle</b></a> </td> <td align="center" width="140"> <a href="https://www.linkedin.com/in/chikonzero-seleman-143155264/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44" alt="LinkedIn" /><br/><b>LinkedIn</b></a> </td> <td align="center" width="140"> <a href="https://github.com/Chikyl"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"> <img src="https://cdn.simpleicons.org/github/181717" width="44" height="44" alt="GitHub" /> </picture><br/><b>GitHub</b> </a> </td> </tr> </table> 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql&theme=dark" />
+</p>
 
-<br/><br/>
+<h3 align="center">🧠 MACHINE LEARNING & DEEP LEARNING</h3>
 
-Building intelligent systems. Exploring new frontiers. Advancing AI through experimentation.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/XGBoost-189B58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/timm-Deep%20Learning-555555?style=for-the-badge"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer wave" width="100%" /> </div>
+<h3 align="center">📊 DATA SCIENCE & VISUALIZATION</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,opencv&theme=dark"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-Scientific%20Computing-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge"/>
+</p>
+
+<h3 align="center">🧬 COMPUTATIONAL BIOLOGY & SCIENTIFIC COMPUTING</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/RDKit-Chemoinformatics-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BioPython-Bioinformatics-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scanpy-Single--Cell%20Analysis-5B8DB8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+<h3 align="center">🚀 DEVELOPMENT & DEPLOYMENT</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,react,postgres,git,github,docker&theme=dark"/>
+</p>
+
+<h3 align="center">☁️ PLATFORMS & TOOLS</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,vscode,linux&theme=dark"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
+
+---
+
+<h2 align="center">🐍 GITHUB CONTRIBUTION ACTIVITY</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Chikyl/Chikyl/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<p align="center">
+I'm always interested in collaborating on challenging machine learning problems, research experiments, open-source projects, and innovative AI applications.
+</p>
+
+<p align="center">
+<a href="https://www.kaggle.com/chikonzeroselemani">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45" alt="Kaggle"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chikonzero-seleman-143155264/">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Chikyl">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" alt="GitHub"/>
+</a>
+</p>
+
+<h3 align="center">Building Intelligent Systems. Exploring New Frontiers. Advancing AI Through Experimentation.</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Footer"/>
+</p>
