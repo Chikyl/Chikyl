@@ -97,35 +97,9 @@ I enjoy experimenting with novel architectures, building robust models, competin
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
 </p>
 
----
-
-<h2 align="center">🐍 GITHUB CONTRIBUTION ACTIVITY</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Chikyl/Chikyl/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-</p>
 
 ---
 
-<h2 align="center">🤝 LET'S CONNECT</h2>
-
-<p align="center">
-I'm always interested in collaborating on challenging machine learning problems, research experiments, open-source projects, and innovative AI applications.
-</p>
-
-<p align="center">
-<a href="https://www.kaggle.com/chikonzeroselemani">
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45" alt="Kaggle"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chikonzero-seleman-143155264/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Chikyl">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" alt="GitHub"/>
-</a>
-</p>
 
 <h3 align="center">Building Intelligent Systems. Exploring New Frontiers. Advancing AI Through Experimentation.</h3>
 
